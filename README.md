@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: 
+# TODO: 
 just run
 ```
 iex -S mix 
