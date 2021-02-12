@@ -1,7 +1,11 @@
 # Cards
 
-**TODO: Add description**
+# TODO: 
+just run
+```
+iex -S mix 
 
+```
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
